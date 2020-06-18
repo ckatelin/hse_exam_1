@@ -1,0 +1,9 @@
+2
+John Smith;john;O//norwWPScxhOiQKv5mtw==
+Mary Smith;mary;pURsLP4rigFcqop+glu4rw==
+5
+2019-06-20 10:30;Programming exam;High;john
+2019-06-30 23:55;End of year 1;Medium;all
+2019-07-12 10:45;Car technical inspection;Medium;john
+2019-09-01 09:00;MDI second year starts;Low;john
+2019-07-11 08:30;Driving test;High;mary
