@@ -24,5 +24,4 @@ for j in range(len(mas)):
             add += 1
     if add <= k and check(new, int(mas[j])):
         new[add-1].append(int(mas[j]))
-
 print(new)

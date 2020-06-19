@@ -3,7 +3,6 @@ matrix = str(input('Matrix: '))
 s = 0
 t = True
 while True:
-    i = 0
     s = 0
     for i in range(len(matrix)):
         if (matrix[i] >= '0' and matrix[i] <= '9') or matrix[i] == 'x':
@@ -33,7 +32,7 @@ while i < len(matrix):
     i += 1
 n = int(n1)
 m = int(n2)
-print(n,m)
+print(n, m)
 for i in range(n):
     for j in range(m):
         if i + j * n < len(name):
